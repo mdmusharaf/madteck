@@ -968,7 +968,7 @@ ul
     {
        
         font-size: 1.3rem;
-        margin: 47px 40px 7px;
+        margin: 47px 34px 7px;
        
     }
     .os
@@ -1000,6 +1000,10 @@ ul
     {
         margin: 0 53px;
     }
+    .btn-abt
+    {
+        padding:22px 12px;
+    }
     .btn
     {
         margin-left: 38px;
@@ -1015,14 +1019,14 @@ ul
         flex-direction: column;
         flex-wrap: wrap;
         width: 100vw;
-        height: 1160px;
+        height: 1200px;
         overflow: hidden;
     }
     .one , .two , .third , .fourth , .fifth , .six
 {
     width: 45%;
     overflow: hidden;
-    height: 350px;
+    height: 380px;
     box-shadow: none;
 }
 #design
@@ -1069,7 +1073,7 @@ ul
 }
 .c1 , .c2 , .c3 , .c4
 {
-    width: 80%;
+    width: 90%;
     overflow: hidden;
 }
 #contact
@@ -1122,7 +1126,7 @@ footer
 .ft , .pages ,.addr
 {
     width: 250px;
-    overflow: hidden;
-    padding: 20px;
+/*     overflow: hidden; */
+    padding: 4px 0px;
 }
 }
