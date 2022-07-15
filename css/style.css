@@ -1120,9 +1120,15 @@ textarea
 footer
 {
     width: 100vw;
-    height: 19rem;
+    height: 41rem;
     overflow: hidden;
 }
+    .grid
+    {
+        flex-direction:column;
+        width:100vw;
+        height:585px;
+    }
 .ft , .pages ,.addr
 {
     width: 250px;
