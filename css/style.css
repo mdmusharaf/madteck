@@ -947,9 +947,9 @@ ul
     }
     .text
     {
-        padding: 0% 31px;
+/*         padding: 0% 31px; */
         position: unset;
-        font-size: 1.5rem;
+        font-size: 1.3rem;
 
     }
     .gif
@@ -962,18 +962,18 @@ ul
     .dg
     {
         top: 0;
-        left: 48px;
+        left: 20px;
     }
     .text-service
     {
        
-        font-size: 1.3rem;
-        margin: 47px 34px 7px;
+        font-size: 1.2rem;
+        margin: 47px 16px 7px;
        
     }
     .os
     {
-        left: 50px;
+        left: 18px;
     }
     #about
     {
@@ -998,7 +998,7 @@ ul
     }
     .small-text
     {
-        margin: 0 53px;
+        margin: 0 18px;
     }
     .btn-abt
     {
@@ -1006,7 +1006,7 @@ ul
     }
     .btn
     {
-        margin-left: 38px;
+        margin-left: 15px;
         margin-top: 40px;
         padding: 22px 12px;
     }
@@ -1046,11 +1046,11 @@ ul
 .dt
 {
     margin-top: 0;
-    margin-left: 60px;
+/*     margin-left: 60px; */
 }
 .dt-small
 {
-    margin: 0 60px;
+    margin: 0 20px;
     text-align: unset;
 }
 #dedic
