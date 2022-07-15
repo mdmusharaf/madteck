@@ -5,7 +5,7 @@ body
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding: 0;
     box-sizing: border-box ;
-     min-width:1050px;
+    
 
 }
 html
@@ -919,7 +919,7 @@ ul
     #content
     {
         flex-direction: column-reverse;
-        width: min-content;
+        width: 741px;
         height: 70rem;
         overflow: hidden;
         margin-bottom: 20px;
@@ -967,7 +967,7 @@ ul
     }
     #about
     {
-        width: 48rem;
+        width: 741px;
         flex-direction: column-reverse;
         height: 78rem;
         overflow: hidden;
@@ -994,7 +994,7 @@ ul
     {
         flex-direction: column;
         flex-wrap: wrap;
-        width: 48.1rem;
+        width: 741px;
         height: 1160px;
         overflow: hidden;
     }
@@ -1008,7 +1008,7 @@ ul
 #design
 {
     flex-direction: column-reverse;
-    width: 48rem;
+    width: 741px;
     height: 75rem;
     overflow: hidden;
 }
@@ -1032,7 +1032,7 @@ ul
 #dedic
 {
     flex-direction: column;
-    width: 48rem;
+    width: 741px;
     height: 98rem;
     overflow: hidden;
 }
@@ -1043,7 +1043,7 @@ ul
 }
 #project
 {
-    width: 48rem;
+    width: 741px;
     overflow: hidden;
 }
 .c1 , .c2 , .c3 , .c4
@@ -1053,10 +1053,10 @@ ul
 }
 #contact
 {
-    width: 41rem;
+    width: 741px;
     overflow: hidden;
     height: 86rem;
-    margin-left: 40px;
+ 
 }
 textarea
 {
@@ -1094,7 +1094,7 @@ textarea
 }
 footer
 {
-    width: 48rem;
+    width: 741px;
     height: 21rem;
     overflow: hidden;
 }
