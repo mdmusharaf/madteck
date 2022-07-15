@@ -942,7 +942,7 @@ ul
     }
     .image
     {width: 100%;
-        height: 445px;
+        height: 480px;
         overflow: hidden;
     }
     .text
@@ -955,7 +955,7 @@ ul
     .gif
     {
         /* padding: 78px 70px; */
-        width: 420px;
+        width: 400px;
         overflow: hidden;
        
     }
