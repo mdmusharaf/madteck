@@ -1155,7 +1155,7 @@ footer
         flex-direction:column;
         width:100vw;
         height: 460px;
-    text-align:center;
+        align-items:start;
     }
 .ft , .pages , .addr
 {
