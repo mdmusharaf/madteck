@@ -478,7 +478,7 @@ letter-spacing: 1px;
     letter-spacing: 1px; 
     padding: 22px 32px ;
     border-radius: 10px;
-    margin: 20px;
+    margin: 65px;
     margin-left: 24px;
   
 }
@@ -1018,6 +1018,7 @@ ul
     .btn-abt
     {
         padding:20px 22px;
+        margin:20px;
     }
     .btn
     {
