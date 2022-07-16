@@ -949,7 +949,8 @@ ul
     {
 /*         padding: 0% 31px; */
         position: unset;
-        font-size: 1.7rem;
+        font-size: 1.6rem;
+        letter-spacing:3px;
 
     }
     .gif
