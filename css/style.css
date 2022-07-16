@@ -1131,7 +1131,7 @@ footer
         flex-direction:column;
         width:100vw;
         height: 460px;
-    align-items: baseline;
+    text-align:center;
     }
 .ft , .pages , .addr
 {
