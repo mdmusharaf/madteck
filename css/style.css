@@ -1022,15 +1022,17 @@ ul
     }
     .btn
     {
-        margin-left: 15px;
-        margin-top: 20px;
-        padding: 17px 12px;
+        margin-left: 20px;
+    margin-top: 30px;
+    padding: 23px 110px;
+        
         
     }
     .btn-learn
     {
         padding: 17px 12px;
         letter-spacing:1px;
+        display:none;
     }
     .btn-sr
     {
