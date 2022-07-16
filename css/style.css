@@ -996,7 +996,6 @@ ul
         width: 100vw;
         flex-direction: column-reverse;
         height: 1110px;
-        text-align:center;
         overflow: hidden;
     }
     .abt-small
@@ -1020,7 +1019,7 @@ ul
     }
     .btn-abt
     {
-        padding:20px 122px;
+        padding:20px 22px;
         margin:20px;
     }
     .btn
@@ -1040,7 +1039,7 @@ ul
     }
     .btn-sr
     {
-        padding:20px 113px;
+        padding:20px 22px;
     }
     #fame
     {
