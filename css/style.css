@@ -1123,19 +1123,20 @@ textarea
 footer
 {
     width: 100vw;
-    height: 41rem;
+    height: 32rem;
     overflow: hidden;
 }
     .grid
     {
         flex-direction:column;
         width:100vw;
-        height:585px;
+        height: 460px;
+    align-items: baseline;
     }
 .ft , .pages , .addr
 {
     width: 250px;
 /*     overflow: hidden; */
-    padding: 4px 0px;
+    padding: 4px 25px;
 }
 }
