@@ -937,7 +937,7 @@ ul
     .cont 
     {
         width: 100%;
-        height: 500px;
+        height: auto;
         overflow: hidden;
     }
     .image
@@ -949,7 +949,7 @@ ul
     {
 /*         padding: 0% 31px; */
         position: unset;
-        font-size: 1.6rem;
+        font-size: 1.7rem;
         letter-spacing:3px;
 
     }
@@ -1008,7 +1008,7 @@ ul
     .btn
     {
         margin-left: 15px;
-        margin-top: 25px;
+        margin-top: 35px;
         padding: 22px 12px;
     }
     .btn-learn
