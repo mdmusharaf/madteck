@@ -1136,7 +1136,6 @@ footer
 .ft , .pages , .addr
 {
     width: 250px;
-/*     overflow: hidden; */
     padding: 4px 25px;
 }
 }
