@@ -478,7 +478,7 @@ letter-spacing: 1px;
     letter-spacing: 1px; 
     padding: 22px 32px ;
     border-radius: 10px;
-    margin: 65px;
+    margin: 20px;
     margin-left: 24px;
   
 }
@@ -1017,7 +1017,7 @@ ul
     }
     .btn-abt
     {
-        padding:22px 12px;
+        padding:20px 22px;
     }
     .btn
     {
@@ -1030,6 +1030,10 @@ ul
     {
         padding: 17px 12px;
         letter-spacing:1px;
+    }
+    .btn-sr
+    {
+        padding:20px 22px;
     }
     #fame
     {
