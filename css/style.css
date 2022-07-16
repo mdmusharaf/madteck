@@ -949,7 +949,7 @@ ul
     {
 /*         padding: 0% 31px; */
         position: unset;
-        font-size: 1.7rem;
+        font-size: 1.6rem;
         letter-spacing:3px;
 
     }
@@ -1008,13 +1008,13 @@ ul
     .btn
     {
         margin-left: 15px;
-        margin-top: 0px;
-        padding: 22px 12px;
+        margin-top: 20px;
+        padding: 17px 12px;
         
     }
     .btn-learn
     {
-        padding: 22px 12px;
+        padding: 17px 12px;
         letter-spacing:1px;
     }
     #fame
