@@ -340,6 +340,26 @@ h1
 
 }
 
+.btn-sr
+{
+border: solid 1px #333;
+    /* width: 200px; */
+    color: #000;
+    font-size: large;
+    line-height: 1em;
+    letter-spacing: 1px;
+    padding: 22px 32px;
+    transition: linear 201ms;
+    border-radius: 10px;
+}
+.btn-sr:hover
+{
+    background-color: #7b5eed;
+    color: #fff;
+    cursor: pointer;
+    transition:  linear 201ms;
+
+}
 #fame
 {
     width: 100%;
