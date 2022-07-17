@@ -1045,6 +1045,7 @@ ul
     .small-text
     {
         margin: 0 18px;
+        text-align:center;
     }
     .btn-abt
     {
