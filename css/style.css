@@ -251,12 +251,12 @@ h1
 }
 .text
 {
-    font-size: 3rem;
+    font-size: 2.7rem;
     position: relative;
     font-family: 'poppins';
     top: 31px;
     left: 52px;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
     text-shadow: 0 3px 6px rgb(48 44 255 / 11%);
 }
 .text-service
