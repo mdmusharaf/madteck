@@ -479,6 +479,17 @@ overflow-x: hidden;
 
     
 }
+.slot
+{
+    width:650px;
+    height:650px;
+
+}
+.slot-sec
+{
+    width:650px;height:650px;
+    
+}
 .abt-small
 {
 text-align: justify;
@@ -1025,7 +1036,7 @@ ul
     {
         width: 100vw;
         flex-direction: column-reverse;
-        height: 1110px;
+        height: 1000px;
         overflow: hidden;
     }
     .abt-small
@@ -1038,6 +1049,20 @@ ul
         font-size: 1.5rem;
         margin: 6px 22px;
     }
+  .slot
+{
+    width: 450px;
+    height: 450px;
+    right: 35px;
+    
+}
+.slot-sec
+{
+    width: 450px;
+    height: 450px;
+    left: 20px;
+    
+}
     .abt-us
     {
         top: 0;
