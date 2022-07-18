@@ -429,10 +429,16 @@ btn.classList.toggle("open");
  
   </script>
   <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
-<body onload="myFunction()">
+<script>
+  var myVar;
   
+  function myFunction() {
+    myVar = setTimeout(showPage, 2000);
+  }
   
-<div id="loader"></div>
-
-<div style="display:none;" id="myDiv" class="animate-bottom">
+  function showPage() {
+    document.getElementById("loader").style.display = "none";
+    document.getElementById("myDiv").style.display = "block";
+  }
+  </script>
 </html>
