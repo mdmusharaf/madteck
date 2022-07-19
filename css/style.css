@@ -1162,15 +1162,21 @@ ul
 {
     flex-direction: column-reverse;
     width: 100vw;
-    height: 52rem;
+    height: 40rem;
     overflow: hidden;
 }
-.ds-img , .ds-txt
+.ds-img 
 {
     width: 100%;
     overflow: hidden;
     height: auto;
 }
+    .ds-txt
+    {
+          width: 100%;
+    overflow: hidden;
+    height: 425px;
+    }
 .abt-img
 {
     width: 100%;
