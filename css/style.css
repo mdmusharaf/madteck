@@ -20,7 +20,7 @@ html
 
 
 .header {
-background:#fff;
+background:trasnparent;
 /* position: fixed; */
 width: 100%;
 
@@ -965,7 +965,7 @@ ul
      width: 100% !important;
      margin: 0;
      height: 80px;
-  
+      background:#fff;
      position: fixed;
    }
    .menu-items.open {
