@@ -842,10 +842,10 @@ label
 }
  textarea
 {
-   width: 80%;
+   width: 90%;
     resize: none;
     min-height: 125px;
-  margin-left: 30px;
+/*   margin-left: 30px; */
   outline-color: #302cff;
   border-radius: 10px;
   padding: 17px 24px;
@@ -1204,7 +1204,8 @@ ul
     {
           width: 100%;
     overflow: hidden;
-    height: 425px;
+    height: 500px;
+        margin:50px 0;
     }
 .abt-img
 {
