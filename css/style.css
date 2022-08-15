@@ -1162,16 +1162,16 @@ ul
     #fame
     {
         flex-direction: column;
-        flex-wrap: wrap;
-        width: 100vw;
-        height: 1200px;
+/*         flex-wrap: wrap; */
+        width: 100%;
+        height: 2069px;
         overflow: hidden;
     }
     .one , .two , .third , .fourth , .fifth , .six
 {
-    width: 45%;
+    width: 90%;
     overflow: hidden;
-    height: 380px;
+    height: 300px;
     box-shadow: none;
 }
 #design
