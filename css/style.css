@@ -1251,6 +1251,10 @@ ul
     width: 90%;
     overflow: hidden;
 }
+    .pr
+    {
+        font-size:1.4rem;
+    }
 #contact
 {
     width: 94vw;
