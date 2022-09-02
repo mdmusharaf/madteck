@@ -831,6 +831,22 @@ input[type=checkbox] {
    box-shadow: 0 2px 8px 0 rgb(48 44 255 / 1%), 0 1px 3px 0 rgb(7 7 33 / 6%);
     border-radius: 10px;
 }
+#inp-c1:hover
+{
+    border-color:2px solid #303cff;
+}
+#inp-c2:hover
+{
+    border-color:2px solid #303cff;
+}
+#inp-c3:hover
+{
+    border-color:2px solid #303cff;
+}
+#inp-c4:hover
+{
+    border-color:2px solid #303cff;
+}
 .cts
 {
    margin-left: 27px;
