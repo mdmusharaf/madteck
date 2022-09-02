@@ -806,6 +806,9 @@ label
     color: #070721;
     font-weight: 500;
 }
+input[type=checkbox] {
+  accent-color: red;
+}
 .inpt
 {
     
