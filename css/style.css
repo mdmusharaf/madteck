@@ -831,19 +831,19 @@ input[type=checkbox] {
    box-shadow: 0 2px 8px 0 rgb(48 44 255 / 1%), 0 1px 3px 0 rgb(7 7 33 / 6%);
     border-radius: 10px;
 }
-#inp-c1:hover
+#inp-c1:focus
 {
     border:2px solid #302cff;
 }
-#inp-c2:hover
+#inp-c2:focus
 {
     border:2px solid #302cff;
 }
-#inp-c3:hover
+#inp-c3:focus
 {
     border:2px solid #302cff;
 }
-#inp-c4:hover
+#inp-c4:focus
 {
     border:2px solid #302cff;
 }
@@ -1286,7 +1286,7 @@ ul
 textarea
 {
     width: 330px;
-    margin-left: 12px;
+/*     margin-left: 12px; */
     overflow: hidden;
     padding: 17px 6px;
     
